@@ -2102,8 +2102,8 @@ Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/b
 File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\03\blue_triangle_01-160x160.png
 Content Type: image/png
 
-Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/blue_triangle_01.png
-File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\03\blue_triangle_01.png
+Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/colb_1.png
+File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\03\colb_1.png
 Content Type: image/png
 
 Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/bottom-cover.png
@@ -2114,7 +2114,7 @@ Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/c
 File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\03\card_01-320x277.jpg
 Content Type: image/jpeg
 
-Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/card_01.jpg
+Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/card_01.png
 File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\03\card_01.jpg
 Content Type: image/jpeg
 
@@ -2122,7 +2122,7 @@ Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/c
 File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\03\card_02-320x277.jpg
 Content Type: image/jpeg
 
-Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/card_02.jpg
+Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/card_02.png
 File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\03\card_02.jpg
 Content Type: image/jpeg
 
@@ -2130,7 +2130,7 @@ Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/c
 File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\03\card_03-320x277.jpg
 Content Type: image/jpeg
 
-Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/card_03.jpg
+Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/card_03.png
 File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\03\card_03.jpg
 Content Type: image/jpeg
 
@@ -2138,7 +2138,7 @@ Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/c
 File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\03\card_04-320x277.jpg
 Content Type: image/jpeg
 
-Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/card_04.jpg
+Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/03/card_04.png
 File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\03\card_04.jpg
 Content Type: image/jpeg
 
@@ -2662,8 +2662,8 @@ Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/04/b
 File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\04\background_3_services.jpg
 Content Type: image/jpeg
 
-Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/04/blue_triangle_02.png
-File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\04\blue_triangle_02.png
+Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/04/colb_2.png
+File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\04\colb_2.png
 Content Type: image/png
 
 Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/04/bottom_cover_3.png
@@ -3150,8 +3150,8 @@ Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/06/l
 File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\06\large_blue_triangle_01-320x316.png
 Content Type: image/png
 
-Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/06/large_blue_triangle_01.png
-File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\06\large_blue_triangle_01.png
+Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/06/large_colb_1.png
+File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\06\large_colb_1.png
 Content Type: image/png
 
 Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/06/large_blue_triangle_02-320x304.png
@@ -3166,12 +3166,12 @@ Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/06/l
 File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\06\large_blue_triangle_02-640x607.png
 Content Type: image/png
 
-Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/06/large_blue_triangle_02.png
-File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\06\large_blue_triangle_02.png
+Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/06/large_colb_2.png
+File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\06\large_colb_2.png
 Content Type: image/png
 
-Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/06/large_blue_triangle_03.png
-File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\06\large_blue_triangle_03.png
+Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/06/colb_3.png
+File Name: D:\Portfolio\Novalab\novalab.bold-themes.com\nova-a\wp-content\uploads\sites\7\2020\06\colb_3.png
 Content Type: image/png
 
 Uri: https://novalab.bold-themes.com/nova-a/wp-content/uploads/sites/7/2020/06/large_blue_triangle_04-100x100.png
