@@ -28786,7 +28786,7 @@ img.mfp-img {
 /*# sourceMappingURL=content_elements.crush.css.map */
 
 .second_colb_fix_class {
-    margin-left: 10vw;
+    margin-left: 5vw;
 }
 
 .third_colb_fix_class {
@@ -28798,7 +28798,7 @@ img.mfp-img {
 }
 
 .fourth_colb_fix_class {
-    margin-left: 10vw;
+    margin-left: 5vw;
 }
 
 .fifth_colb_fix_class {
@@ -28810,13 +28810,13 @@ img.mfp-img {
 }
 
 .sixth_colb_fix_class {
-    margin-left: 10vw;
+    margin-left: 5vw;
 }
 
 .seventh_colb_fix_class {
-    margin-right: 15vw;
+    margin-right: 25vw;
 }
 
 .seventh_colb_fix_class_inside {
-    transform: translateY(20%);
+    transform: translateY(30%);
 }
