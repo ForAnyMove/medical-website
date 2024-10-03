@@ -28784,3 +28784,39 @@ img.mfp-img {
 }
 
 /*# sourceMappingURL=content_elements.crush.css.map */
+
+.second_colb_fix_class {
+    margin-left: 10vw;
+}
+
+.third_colb_fix_class {
+    margin-right: 22vw;
+}
+
+.third_colb_fix_class_inside {
+    transform: translateY(-100%);
+}
+
+.fourth_colb_fix_class {
+    margin-left: 10vw;
+}
+
+.fifth_colb_fix_class {
+    margin-right: 10vw;
+}
+
+.fifth_colb_fix_class_inside {
+    transform: translateY(-50%);
+}
+
+.sixth_colb_fix_class {
+    margin-left: 10vw;
+}
+
+.seventh_colb_fix_class {
+    margin-right: 15vw;
+}
+
+.seventh_colb_fix_class_inside {
+    transform: translateY(20%);
+}
