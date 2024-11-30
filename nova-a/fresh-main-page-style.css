@@ -1,0 +1,9 @@
+.bt_bb_background_image_holder{
+  background-position-y: 0 !important;
+}
+.fresh-second-section-bg {
+  background-image: linear-gradient(90deg, #ffffff 0%, #ffffff80 50%, #ffffff00 100%), url('wp-content/fresh-images/second-section-bg.jpg') !important;
+}
+.fresh-third-section-bg {
+  background-image: linear-gradient(90deg, #ffffff 0%, #ffffff80 50%, #ffffff00 100%), url('wp-content/fresh-images/third-section-bg.jpg') !important;
+}
