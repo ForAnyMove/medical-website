@@ -340,9 +340,15 @@ i.fa-thin {
   font-weight: bold;
 }
 .tests_wrapper-results-page_switcher>p:nth-child(2) {
-  color: #00000033;
+  color: #1E3B64;
 }
 .tests_wrapper-results-page_switcher>p:nth-child(2)>i {
+  color: #02ABFF;
+}
+.tests_wrapper-results-page_switcher>p:nth-child(2).disabled {
+  color: #00000033;
+}
+.tests_wrapper-results-page_switcher>p:nth-child(2).disabled>i {
   color: #02ABFF33;
 }
 .tests_wrapper-results-page_switcher>p:nth-child(3)>i {
