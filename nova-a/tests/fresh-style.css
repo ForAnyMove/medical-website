@@ -1,0 +1,353 @@
+/* Общие стили */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.bt_bb_section.bt_bb_color_scheme_15 {
+  color: #1f3b64;
+  background-color: #fcfcfd;
+}
+
+.search-panel {
+  width: 100%;
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.search-box {
+  display: flex;
+  width: 100%;
+}
+
+.search-input {
+  flex: 1;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+}
+.btHardRoundedButtons input:not([type='checkbox']):not([type='radio']),
+.btHardRoundedButtons a.select2-choice {
+  border-radius: 0px;
+}
+
+.search-input:focus {
+  border-color: #02abff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.search-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #02abff;
+  border: none;
+  width: 25%;
+  cursor: pointer;
+}
+
+.search-button:hover {
+  background-color: #0056b3;
+}
+
+.search-button:active {
+  background-color: #004085;
+}
+
+.breadcrumbs {
+  display: flex;
+  gap: 5px;
+  font-size: 14px;
+  color: #1e3b64cc;
+}
+
+i.fa-thin {
+  font-size: 14px;
+}
+
+.breadcrumbs a {
+  color: #1e3b64cc;
+  text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.search_panel-filter {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+}
+.search_panel-filter > i {
+  color: #02abff;
+}
+
+.search_panel-filter > .search_panel-filter-title {
+  margin-left: 20px;
+  color: #1e3b6433;
+}
+
+.tests_wrapper {
+  display: flex;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.tests_wrapper > .tests_wrapper-categories {
+  display: flex;
+  padding-right: 1%;
+}
+.bt-content-holder table {
+  width: 100%;
+  margin: 0 0 1em;
+  border-collapse: collapse;
+  text-align: initial;
+  border: none;
+}
+.bt-content-holder table td,
+.bt-content-holder table th {
+  padding: 1em;
+  border: 1px solid #e4e7ec;
+}
+
+.menu-container {
+  width: 300px;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.tests_menu,
+.tests_submenu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.tests_menu > li {
+}
+
+.menu-btn,
+.submenu-btn {
+  width: 100%;
+  padding: 10px;
+  background-color: #fcfcfd;
+  border: 1px solid #ddd;
+  text-align: left;
+  cursor: pointer;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menu-btn > .menu-btn-title {
+  width: 100%;
+  font-size: 14px;
+  padding: 0 5px;
+}
+.submenu-btn > .menu-btn-title {
+  width: 100%;
+  font-size: 12px;
+  line-height: normal;
+  padding-left: 5px;
+}
+
+.menu-btn:hover,
+.submenu-btn:hover {
+  background-color: #f5f5f5;
+}
+
+.tests_submenu {
+  display: none;
+  padding-left: 20px;
+}
+
+.tests_submenu .submenu-category {
+  font-size: 12px;
+  display: block;
+  color: #1e3b64;
+  cursor: pointer;
+}
+
+.tests_submenu .submenu-category:hover {
+  text-decoration: underline;
+}
+
+.tests_submenu > li > .tests_submenu {
+  list-style: disc;
+  color: #02abff;
+}
+
+.tests_menu > li.active > .tests_submenu,
+.tests_submenu > li.active > .tests_submenu {
+  display: block;
+}
+.tests_menu > li.active > .menu-btn,
+.tests_submenu > li.active > .submenu-btn {
+  background-color: #02abff;
+  color: #ffffff;
+}
+
+.tests_menu > li > .menu-btn > svg,
+.tests_submenu > li > .submenu-btn > svg {
+  fill: #02abff;
+  color: #02abff;
+}
+.tests_menu > li.active > .menu-btn > svg,
+.tests_submenu > li.active > .submenu-btn > svg {
+  fill: #ffffff;
+  color: #ffffff;
+}
+
+.tests_menu > li.with_submenu > .menu-btn::after,
+.tests_submenu > li.with_submenu > .submenu-btn::after {
+  content: '\f078'; /* Unicode для иконки "chevron-up" из Font Awesome */
+  font-family: 'Font Awesome 6 Free'; /* Имя шрифта Font Awesome */
+  font-weight: 900; /* Используется для solid иконок */
+  display: inline-block;
+  margin-left: 10px; /* Отступ от текста кнопки */
+  color: #1e3b64; /* Цвет иконки */
+  font-size: 0.9em; /* Размер иконки */
+}
+.tests_menu > li.active.with_submenu > .menu-btn::after,
+.tests_submenu > li.active.with_submenu > .submenu-btn::after {
+  content: '\f077'; /* Unicode для иконки "chevron-down" из Font Awesome */
+  font-family: 'Font Awesome 6 Free'; /* Имя шрифта Font Awesome */
+  font-weight: 900; /* Используется для solid иконок */
+  display: inline-block;
+  margin-left: 10px; /* Отступ от текста кнопки */
+  color: #ffffff; /* Цвет иконки */
+  font-size: 0.9em; /* Размер иконки */
+}
+
+.tests_wrapper-results {
+  width: 100%;
+}
+
+.tests_wrapper-results > table {
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+.tests_wrapper-results > table > thead > tr > th {
+  border: 0;
+}
+.tests_wrapper-results > table > thead > tr > th,
+.tests_wrapper-results > table > tbody > tr > td {
+  background-color: #ffffff00;
+  color: #1e3b64;
+  font-size: 11px;
+}
+.tests_wrapper-results > table > thead > tr:nth-child(2) > th {
+  background-color: #eaeff3;
+  color: #1e3b64;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+.tests_wrapper-results > table > thead > tr:nth-child(2) > th:not(:nth-child(1)) {
+  text-align: center;
+}
+.tests_wrapper-results > table > thead > tr:nth-child(1) > th:nth-child(2) {
+  color: #1e3b644d;
+  font-size: 12px;
+  font-weight: normal;
+  padding: 0;
+}
+.tests_wrapper-results > table > thead > tr > th:nth-child(1),
+.tests_wrapper-results > table > tbody > tr > th:nth-child(1) {
+  width: 70%;
+}
+.tests_wrapper-results > table > thead > tr:nth-child(1) > th:nth-child(1) {
+  font-size: 24px;
+  padding: 0 1em;
+}
+.tests_wrapper-results > table > tbody > tr > td:nth-child(2),
+.tests_wrapper-results > table > tbody > tr > td:nth-child(3) {
+  background-color: #eaeff3;
+  color: #1e3b6480;
+}
+.tests_wrapper-results > table > tbody > tr > td>p {
+  margin: 0;
+}
+
+.tests_wrapper-results > table > tbody > tr > td>p>span.dark_text {
+  color: #1e3b64;
+  font-size: 14px;
+  font-weight: bold;
+}
+.tests_wrapper-results > table > tbody > tr > td>p>span>span.light_text {
+  color: #02abff;
+  font-size: 14px;
+  font-weight: bold;
+  margin-right: .2em;
+}
+.tests_wrapper-results > table > tbody > tr > td:nth-child(1)>p>span.dark_text {
+  font-size: 12px;
+}
+.tests_wrapper-results > table > tbody > tr > td>button.tests_wrapper-results-bay_btn {
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  background-color: #02abff;
+  border: none;
+  width: 100%;
+  padding: .5em;
+}
+.tests_wrapper-results > table > tbody > tr > td>button.tests_wrapper-results-bay_btn:hover {
+  background-color: #0056b3;
+}
+
+.tests_wrapper-results > table > tbody > tr > td>button.tests_wrapper-results-bay_btn::before {
+  content: '\f290'; /* Unicode для иконки "chevron-down" из Font Awesome */
+  font-family: 'Font Awesome 6 Free'; /* Имя шрифта Font Awesome */
+  font-weight: 900; /* Используется для solid иконок */
+  display: inline-block;
+  margin-right: 10px; /* Отступ от текста кнопки */
+  color: #ffffff; /* Цвет иконки */
+  font-size: 1.5em; /* Размер иконки */
+}
+
+.tests_wrapper-results > table > tbody > tr > td:nth-child(2)>p.tests_wrapper-results-old_price>span.dark_text {
+  text-decoration: line-through;
+  font-weight: normal;
+  margin-right: .2em;
+}
+.tests_wrapper-results > table > tbody > tr > td:nth-child(2)>p:nth-child(2) {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.tests_wrapper-results > table > tbody > tr > td:nth-child(3)>p {
+  text-align: center;
+}
+.tests_wrapper-results > table > tbody > tr > td:nth-child(2)>p.tests_wrapper-results-old_price {
+  text-align: end;
+}
+
+.tests_wrapper-results-page_switcher {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.tests_wrapper-results-page_switcher>p {
+  font-size: 12px;
+  color: #1E3B64CC;
+}
+.tests_wrapper-results-page_switcher>p:nth-child(3) {
+  font-weight: bold;
+}
+.tests_wrapper-results-page_switcher>p:nth-child(2) {
+  color: #00000033;
+}
+.tests_wrapper-results-page_switcher>p:nth-child(2)>i {
+  color: #02ABFF33;
+}
+.tests_wrapper-results-page_switcher>p:nth-child(3)>i {
+  color: #00000033;
+}
+.tests_wrapper-results-page_switcher>p:nth-child(3)>span.active_page {
+  color: #02ABFF;
+}
